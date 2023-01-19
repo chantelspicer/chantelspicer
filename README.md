@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Chantel</h1>
-<h3 align="center">A passionate Registered Nurse and data analyst who is eager to bridge the gap between healthcare and technology.</h3>
+<h3 align="center">A passionate Registered Nurse and data analyst eager to bridge the gap between healthcare and technology.</h3>
 
 - 🔭 I’m currently working on **SQL and Tableau projects for data analysis.**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/chantelspicer](www.linkedin.com/in/chantelspicer)
 
-- ⚡ Fun fact **I have past hands-on clinical experience as a Registered Nurse and Registered Practical Nurse. Utilizing electronic medical record (EMR) systems in healthcare peaked my interest into the world of technology and my journey thus far. I have past experience and projects using JavaScript, HTML, and CSS. I have since moved onto data analytics to bridge healthcare and technology.**
+- ⚡ Fun fact **I have past hands-on clinical experience as a Registered Nurse and Registered Practical Nurse. Utilizing electronic medical record (EMR) systems in healthcare piqued my interest in the technology world and my journey thus far. I have past experience and projects using JavaScript, HTML, and CSS. I have since moved on to data analytics to bridge healthcare and technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
